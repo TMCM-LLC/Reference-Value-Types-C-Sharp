@@ -1,0 +1,12 @@
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/bin/Debug/netcoreapp3.1/ReferenceVsValueTypes.deps.json
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/bin/Debug/netcoreapp3.1/ReferenceVsValueTypes.runtimeconfig.json
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/bin/Debug/netcoreapp3.1/ReferenceVsValueTypes.runtimeconfig.dev.json
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/bin/Debug/netcoreapp3.1/ReferenceVsValueTypes.dll
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/bin/Debug/netcoreapp3.1/ReferenceVsValueTypes.pdb
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/obj/Debug/netcoreapp3.1/ReferenceVsValueTypes.csprojAssemblyReference.cache
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/obj/Debug/netcoreapp3.1/ReferenceVsValueTypes.AssemblyInfoInputs.cache
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/obj/Debug/netcoreapp3.1/ReferenceVsValueTypes.AssemblyInfo.cs
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/obj/Debug/netcoreapp3.1/ReferenceVsValueTypes.csproj.CoreCompileInputs.cache
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/obj/Debug/netcoreapp3.1/ReferenceVsValueTypes.dll
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/obj/Debug/netcoreapp3.1/ReferenceVsValueTypes.pdb
+/Users/Taylor/dev/ReferenceVsValueTypes/ReferenceVsValueTypes/obj/Debug/netcoreapp3.1/ReferenceVsValueTypes.genruntimeconfig.cache
